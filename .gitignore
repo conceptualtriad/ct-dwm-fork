@@ -1,6 +1,7 @@
 # binary file, executable
 dwm
 *.rej
+*.orig
 
 # Compiled source #
 ###################

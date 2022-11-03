@@ -1,0 +1,12 @@
+ M config.def.h
+ M config.h
+ M drw.o
+ M dwm
+ M dwm.c
+ M dwm.o
+ M util.o
+?? config.def.h.orig
+?? config.def.h.rej
+?? dwm.c.orig
+?? dwm.c.rej
+?? file.txt

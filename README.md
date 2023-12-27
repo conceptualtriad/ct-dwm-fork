@@ -21,6 +21,7 @@ A custom build of dwm; which is an extremely fast, small, and dynamic window man
 
 ## Requirements
 
+- [alacritty](https://github.com/alacritty/alacritty)
 - [rofi](https://github.com/davatorium/rofi)
 - Fonts:
   - MesloLGM Nerd

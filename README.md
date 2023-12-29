@@ -18,6 +18,10 @@ A custom build of dwm; which is an extremely fast, small, and dynamic window man
 - PERTAG_PATCH
 - TOGGLEFULLSCREEN_PATCH
 - VANITYGAPS_PATCH
+- CYCLELAYOUTS_PATCH
+- FLEXTILE_DELUXE_LAYOUT
+- TILE_LAYOUT
+- MONOCLE_LAYOUT
 
 ## Requirements
 

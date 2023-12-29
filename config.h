@@ -202,8 +202,8 @@ static const Layout layouts[] = {
 		/* symbol     arrange function, { nmaster, nstack, layout, master axis, stack axis, secondary stack axis, symbol func } */
 		{" ", flextile, {-1, -1, SPLIT_VERTICAL, TOP_TO_BOTTOM, TOP_TO_BOTTOM, 0, NULL}},	 // default tile layout
 		{" ", flextile, {-1, -1, SPLIT_HORIZONTAL, LEFT_TO_RIGHT, LEFT_TO_RIGHT, 0, NULL}}, // bstack
-		{"󰯌 ", flextile, {-1, -1, SPLIT_VERTICAL, TOP_TO_BOTTOM, MONOCLE, 0, NULL}},				 // deck
-		{"󰯋 ", flextile, {-1, -1, SPLIT_HORIZONTAL, LEFT_TO_RIGHT, MONOCLE, 0, NULL}},			 // deck
+		{"󰯌 ", flextile, {-1, -1, SPLIT_VERTICAL, TOP_TO_BOTTOM, MONOCLE, 0, NULL}},				 // vertical deck
+		{"󰯋 ", flextile, {-1, -1, SPLIT_HORIZONTAL, LEFT_TO_RIGHT, MONOCLE, 0, NULL}},			 // horizontal deck
 		{" ", flextile, {-1, -1, NO_SPLIT, MONOCLE, MONOCLE, 0, NULL}},
 		// {"", NULL},
 };
